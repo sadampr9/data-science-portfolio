@@ -1,4 +1,4 @@
-# Portafolio de Ciencia de Datos – [Sadam Pérez Romero]
+# Portafolio de Ciencia de Datos – Sadam Pérez Romero
 
 Científico de datos con formación de máster en Inteligencia Artificial, 
 enfocado en análisis de datos, machine learning y NLP sobre datos públicos 
