@@ -27,7 +27,7 @@ clustering-unsupervised-learning/
     └── README.md                                # Descripción de los datos
 ```
 
-## 🛠️ Tecnologías y Métodos Utilizados
+## Tecnologías y Métodos Utilizados
 
 ### Técnicas Implementadas
 
@@ -127,7 +127,7 @@ jupyter notebook clustering-comparison-unsupervised.ipynb
 | Isolation Forest | Multivariado | Media | Media | Muy Buena |
 | LOF | Multivariado | Alta | Baja | Limitada |
 
-## 🔬 Investigación Relacionada
+## Investigación Relacionada
 
 Este proyecto se fundamenta en técnicas establecidas de detección de anomalías con aplicaciones en:
 
@@ -170,9 +170,9 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto:
 
 ## Contacto
 
-**Tu Nombre** - [LinkedIn](www.linkedin.com/in/sadam-pérez-romero) - sadam.perez.romero@gmail.com
+**Sadam Pérez** - [LinkedIn](www.linkedin.com/in/sadam-pérez-romero) - sadam.perez.romero@gmail.com
 
-Link del Proyecto: [https://github.com/tu-usuario/clustering-unsupervised-learning](https://github.com/tu-usuario/clustering-unsupervised-learning)
+Link del Proyecto: [https://github.com/tu-usuario/clustering-unsupervised-learning](https://github.com/tu-usuario/clustering-unsupervised-learning](https://github.com/sadampr9/data-science-portfolio/tree/main/anomaly-detection-data-patterns)
 
 ## Referencias
 
