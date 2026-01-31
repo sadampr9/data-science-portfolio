@@ -172,7 +172,7 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto:
 
 **Sadam Pérez** - [LinkedIn](www.linkedin.com/in/sadam-pérez-romero) - sadam.perez.romero@gmail.com
 
-Link del Proyecto: [https://github.com/tu-usuario/clustering-unsupervised-learning](https://github.com/tu-usuario/clustering-unsupervised-learning](https://github.com/sadampr9/data-science-portfolio/tree/main/anomaly-detection-data-patterns)
+Link del Proyecto: [https://github.com/tu-usuario/clustering-unsupervised-learning](https://github.com/sadampr9/data-science-portfolio/tree/main/anomaly-detection-data-patterns)
 
 ## Referencias
 
